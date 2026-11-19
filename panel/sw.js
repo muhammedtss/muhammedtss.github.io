@@ -11,7 +11,7 @@
 // damgalanır; her dağıtımda sw.js bayt olarak değişir, önbellek adları değişir ve eski önbellekler `activate`'te
 // topluca silinir (böylece /_next/static girdileri sürümler boyunca birikmez). Yeni sürüm kendini hemen
 // etkinleştirir (skipWaiting + clients.claim); sayfa `controllerchange`i görüp "Yeni sürüm hazır — yenile" der.
-const VERSION = "a475bef26b60";
+const VERSION = "c80e1ca8e9c1";
 const PAGES_CACHE = `roy-panel-pages-${VERSION}`;
 const STATIC_CACHE = `roy-panel-static-${VERSION}`;
 const CURRENT = [PAGES_CACHE, STATIC_CACHE];
