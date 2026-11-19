@@ -1,0 +1,6 @@
+:HL["/_next/static/chunks/0rb886x4cb5vg.css","style"]
+4:[["children",{"s":"__PAGE__","h":160}]]
+3:[["children",{"s":"teknoloji-danismanligi","h":96,"c":"$Q4"}]]
+2:[["children",{"s":"hizmetler","h":96,"c":"$Q3"}]]
+1:[["children",{"s":"(site)","h":112,"c":"$Q2"}]]
+0:{"b":"nQL9XrELymy6jd4Qa6Dx0","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
