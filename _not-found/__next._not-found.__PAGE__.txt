@@ -13,7 +13,7 @@ f:I[97367,["$3"],"$e"]
 8:X
 9:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[null,null,["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]]}],"p":"$@d","v":null,"s":"$8"}}]]
 1:[["children",{"s":"/_not-found","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
-0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$Lf",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L11",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Sayfa bulunamadı · Roy Labs"}],["$","meta","1",{"name":"description","content":"Aradığın sayfa bulunamadı."}]]}]}],null]}],null]}],"p":"$@12","v":null,"s":"$8"}},"a":"$@13","u":"$@14","b":"9chXyE6-307KSbLDZ0XaL"}
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$Lf",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L11",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Sayfa bulunamadı · Roy Labs"}],["$","meta","1",{"name":"description","content":"Aradığın sayfa bulunamadı."}]]}]}],null]}],null]}],"p":"$@12","v":null,"s":"$8"}},"a":"$@13","u":"$@14","b":"D-UtR8cTx4_-Yw8LMrrkT"}
 c:null
 14:true
 8:300
